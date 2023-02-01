@@ -1,1 +1,0 @@
-C:\Users\blaze\OneDrive - Politechnika Warszawska\MiNI\Grafika Komputerowa 1\Projekt3 - ChromaticityChart\ChromaticityChart\ChromaticityChart\obj\Debug\net6.0-windows\ChromaticityChart.csproj.AssemblyReference.cache
